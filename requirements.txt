@@ -1,0 +1,16 @@
+aiofiles==0.4.0
+certifi==2019.3.9
+chardet==3.0.4
+crypto==1.4.1
+httptools==0.0.13
+idna==2.8
+Naked==0.1.31
+pycryptodome==3.4.11
+PyYAML==5.1.1
+requests==2.22.0
+sanic==0.7.0
+shellescape==3.4.1
+ujson==1.35
+urllib3==1.25.3
+uvloop==0.12.2
+websockets==5.0.1
