@@ -5,7 +5,7 @@ crypto==1.4.1
 httptools==0.0.13
 idna==2.8
 Naked==0.1.31
-pycryptodome==3.4.11
+pycryptodome==3.6.6
 PyYAML==5.1.1
 requests==2.22.0
 sanic==0.7.0
