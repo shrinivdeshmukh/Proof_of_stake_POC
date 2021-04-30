@@ -11,6 +11,6 @@ requests==2.22.0
 sanic==0.7.0
 shellescape==3.4.1
 ujson==1.35
-urllib3==1.25.3
+urllib3==1.25.8
 uvloop==0.12.2
 websockets==5.0.1
